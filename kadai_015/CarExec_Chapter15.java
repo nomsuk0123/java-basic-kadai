@@ -1,6 +1,6 @@
 package kadai_015;
 
-public class main{
+public class Car_Chapter15 {
 	public static void main(String[]args) {
 		
 		//車のインスタンス

@@ -4,7 +4,7 @@ public class Car_Chapter15 {
 	private int gear=1;
     private int speed=10;
 	
-    public int changeGear(int afterGear) {
+    public int changeGear(void afterGear) {
     	gear=afterGear;
     	
     	switch(gear){
